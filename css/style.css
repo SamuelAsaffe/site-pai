@@ -1,0 +1,6 @@
+.gradienteNavBar {
+    color: white !important;
+    background: rgb(2, 0, 36);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(0, 167, 255, 1) 0%, rgba(9, 9, 121, 1) 100%) !important;
+
+}
