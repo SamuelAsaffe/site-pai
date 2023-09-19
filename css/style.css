@@ -9,3 +9,6 @@
     background: rgb(2, 0, 36);
     background: linear-gradient(180deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 29%, rgba(93, 0, 255, 1) 100%);
 }
+.h3titulo{
+    text-align: center;
+}
