@@ -5,10 +5,18 @@
 
 }
 
-.portifolio {
-    background: rgb(2, 0, 36);
-    background: linear-gradient(180deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 29%, rgba(93, 0, 255, 1) 100%);
+#portifolio {
+background: rgb(18,49,74);
+background: linear-gradient(90deg, rgba(18,49,74,1) 0%, rgba(63,113,153,1) 37%, rgba(63,113,153,1) 62%, rgba(18,49,74,1) 100%);
 }
 .h3titulo{
     text-align: center;
 }
+#oirtifolio{
+    
+}
+#sobremim{
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(242,74,74,1) 37%, rgba(242,74,74,1) 62%, rgba(0,0,0,1) 100%);
+
+color: rgb(12, 208, 243);}
