@@ -17,6 +17,6 @@ background: linear-gradient(90deg, rgba(18,49,74,1) 0%, rgba(63,113,153,1) 37%, 
 }
 #sobremim{
     background: rgb(0,0,0);
-background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(242,74,74,1) 37%, rgba(242,74,74,1) 62%, rgba(0,0,0,1) 100%);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(242,74,74,1) 35%, rgba(242,74,74,1) 65%, rgba(0,0,0,1) 100%);
 
 color: rgb(12, 208, 243);}
